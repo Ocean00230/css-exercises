@@ -1,0 +1,15 @@
+
+.yea,
+.nah {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.yea {
+    color: white;
+    background-color: black;
+}
+
+.nah {
+    background-color: yellow;
+}
